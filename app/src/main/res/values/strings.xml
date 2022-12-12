@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">法則性テスト</string>
+
+    <string name="tv_msg">次に来る数字は？12312312</string>
+    <string name="bt_answer1">3</string>
+    <string name="bt_answer2">1</string>
+</resources>
